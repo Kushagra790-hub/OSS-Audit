@@ -2,7 +2,7 @@
 
 # ==========================================================
 # Script 5: Open Source Manifesto Generator
-# Author: Utkarsh Sharma
+# Author: Kushagra Agarwal
 # Course: Open Source Software
 # Description: Generates a personalized open-source manifesto
 # ==========================================================
