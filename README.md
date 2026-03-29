@@ -8,8 +8,8 @@
 
 | Field                  | Details              |
 |------------------------|----------------------|
-| **Student Name**       | Utkarsh Sharma       |
-| **Registration Number**| 24BCY10080           |
+| **Student Name**       | Kushagra Agarwal     |
+| **Registration Number**| 24BCE10227           |
 | **Course**             | Open Source Software |
 
 ---
