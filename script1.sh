@@ -2,13 +2,13 @@
 
 # ==========================================================
 # Script 1: System Identity Report
-# Author: Utkarsh Sharma
+# Author: Kushagra Agarwal
 # Course: Open Source Software
 # Description: Displays important system information
 # ==========================================================
 
 # ----------- User-defined Variables ------------------------
-STUDENT_NAME="Utkarsh Sharma"        # Stores student name
+STUDENT_NAME="Kushagra Agarwal"        # Stores student name
 SOFTWARE_CHOICE="Apache HTTP Server" # Stores chosen software
 
 # ----------- System Information Collection -----------------
